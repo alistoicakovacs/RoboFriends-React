@@ -1,3 +1,18 @@
+#RoboFriends - React Project Created through Udemy Course by Andrei Neagoie
+
+This is a list of Robots made with React. Responsive and interactive page.
+
+# Styles are being also aplied through 'tachyons'.
+  - to learn more about tachyons visit https://tachyons.io/.
+  - it has to be installed easily via npm:
+                                          - npm install tachyons
+  - styles are added through className - see code.
+
+# You can search robots through the search box.
+  - List of users are being fetched from https://jsonplaceholder.typicode.com/users
+
+-------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
