@@ -7,7 +7,7 @@ This is a list of Robots made with React. Responsive and interactive page.
   - it can be installed easily via npm:
                                           - npm install tachyons
   - styles are added through className - see code example:
-     	"div className=" tc bg-light-blue dib br3 pa3 ma2 grow bw2 shadow-5"
+     	"className=" tc bg-light-blue dib br3 pa3 ma2 grow bw2 shadow-5"
 
 # You can search robots through the search box.
   - List of users are being fetched from https://jsonplaceholder.typicode.com/users
