@@ -4,7 +4,7 @@ This is a list of Robots made with React. Responsive and interactive page.
 
 # Styles are being also aplied through 'tachyons'.
   - to learn more about tachyons visit https://tachyons.io/.
-  - it has to be installed easily via npm:
+  - it can be installed easily via npm:
                                           - npm install tachyons
   - styles are added through className - see code.
 
